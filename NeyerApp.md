@@ -9,18 +9,18 @@ If you want to get the source code, please contact me via email address dinhhiep
 
 ## Feature
 
-+ **[Login](###Login)**
-+ **[Profile](###Profile)**
++ **[Login](#Login)**
++ **[Profile](#Profile)**
   + *Setting*
   + *Upload Avatar*
   + *Edit information*
-+ **[Logout and delete account](###Logout-and-delete-account)**
-+ **[Matching](###Matching-(-*Maintain*-))**
-+ **[QR matching](###QR-matching)**
-+ **[Dark mode](###Dark-mode)**
-+ **[Multi language](###Multi-language)**
-+ **[Messenger](###Messenger)**
-+ **[Pay for premium](###Pay-for-premium---(Paypal,-Visa,-Master-Card,-...))**
++ **[Logout and delete account](#Logout-and-delete-account)**
++ **[Matching](#Matching-(-*Maintain*-))**
++ **[QR matching](#QR-matching)**
++ **[Dark mode](#Dark-mode)**
++ **[Multi language](#Multi-language)**
++ **[Messenger](#Messenger)**
++ **[Pay for premium](#Pay-for-premium---(Paypal,-Visa,-Master-Card,-...))**
 
 ## Neyer App - Social Network ( Developing )
 
