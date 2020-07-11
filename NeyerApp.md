@@ -40,7 +40,16 @@ Users can logout or delete account in "Setting" screen.
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/logout.gif" width="200px"> |
 | - |
 
-### Matching
+### Matching  ( *Maintain* )
+
++ The main screen of the application. Users can be find more other users that best suit them.
++ User can be <b style="color:#00ffc7">Like</b>, <b style="color:#fd2d7a">Nope</b>, <b style="color:#5880cb">Super Like</b> other users.
+
++ When both <b style="color:#00ffc7">Like</b> or <b style="color:#5880cb">Super Like</b> each other, the application will automatically match and create a  inbox for them to chat and dating.
++ Users also can be rewind previous user by <b style="color:#f7bd42">Rewind</b>.
+
+| <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/matching.gif" width="200px"> |
+| - |
 
 ### QR matching
 
@@ -78,9 +87,21 @@ App support multi language and multi national. The default language of the appli
 
 ### Pay for premium - (Paypal, Visa, Master Card, ...)
 
-+ E-Wallet
-+ Credit Card
++ Paypal E-Wallet
 
+App use Paypal SDK, please access https://developer.paypal.com/classic-home/ to read documentation and integrate Palpal SDK.
+
+| <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/paypal.gif" width="200px"> |
+| - |
+
++ Credit Card (Visa, Master Card, Amex )
+
+App integrate Visa SDK for pay premium users by all major credit cards (<b>Visa, Master Card, Amex, ...</b>).
+
+Please access https://developer.visa.com/portal/app/dashboard to install Visa SDK to your app.
+
+| <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/credit.gif" width="200px"> |
+| - |
 
 ## Developed By
 
@@ -89,3 +110,4 @@ App support multi language and multi national. The default language of the appli
 + Phone numer: +84 945 455 387
 
 ## Contact me
+
