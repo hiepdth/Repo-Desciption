@@ -1,8 +1,8 @@
-# Desciption
+# Projects desciption for interviews.
 
 This is the description for my project i have been developed.
 
-The repository was created to describe the projects for my interviewing.
+The repository was created to describe the projects for my interviews.
 
 Please repect copyright for public projects.
 
