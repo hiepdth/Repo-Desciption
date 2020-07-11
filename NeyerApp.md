@@ -18,6 +18,7 @@ App use Firebase Authentication for verify
 
 ### Profile
 
+Users can modify settings, allow edit and upload personal photos, change personal information, ...
 + Setting
 
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/setting.gif" width="200px"> |
@@ -35,6 +36,7 @@ App use Firebase Authentication for verify
 
 ### Logout and delete account
 
+Users can logout or delete account in "Setting" screen.
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/logout.gif" width="200px"> |
 | - |
 
@@ -42,25 +44,34 @@ App use Firebase Authentication for verify
 
 ### QR matching
 
-+ User 
++ You want to match with someone you know or nearly to you. Instead of random matching, you should use the QR Code feature. Below is your QR code.
 
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/qr_code_screen.png" width="200px"> |
 | - |
+
++ After scanning the qr code, you will be asked to agree or not if you have never been matched.
 
 <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/result_qr_2.png" width="200px"> | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/result_qr_1.png" width="200px"> |
 | - | - |
 
 ### Dark mode
 
+Switch "Dark mode" to turn on dark mode for protect your eyes from screen light.
+
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/dark_mode.gif" width="200px"> |
 | - |
 
 ### Multi language
 
+App support multi language and multi national. The default language of the application is also the device's default language.
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/language.gif" width="200px"> |
 | - |
 
 ### Messenger
+
++ After matched, users can be chat, dating, unmatch, .v.v. 
++ We use Firebase Realtime Database to develope and store data. 
++ All messages are encrypted when saved to database.
 
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/messenger.gif" width="500px"> |
 | - |
