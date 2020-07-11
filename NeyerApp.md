@@ -9,18 +9,18 @@ If you want to get the source code, please contact me via email address dinhhiep
 
 ## Feature
 
-+ **[Login](###Login)**
-+ **[Profile](###Profile)**
++ **[Login](#Login)**
++ **[Profile](#Profile)**
   + *Setting*
   + *Upload Avatar*
   + *Edit information*
-+ **[Logout and delete account](###Logout-and-delete-account)**
-+ **[Matching](###Matching-(-*Maintain*-))**
-+ **[QR matching](###QR-matching)**
-+ **[Dark mode](###Dark-mode)**
-+ **[Multi language](###Multi-language)**
-+ **[Messenger](###Messenger)**
-+ **[Pay for premium](###Pay-for-premium---(Paypal,-Visa,-Master-Card,-...))**
++ **[Logout and delete account](#Logout-and-delete-account)**
++ **[Matching](#Matching-(-*Maintain*-))**
++ **[QR matching](#QR-matching)**
++ **[Dark mode](#Dark-mode)**
++ **[Multi language](#Multi-language)**
++ **[Messenger](#Messenger)**
++ **[Pay for premium](#Pay-for-premium---(Paypal,-Visa,-Master-Card,-...))**
 
 ## Neyer App - Social Network ( Developing )
 
@@ -63,7 +63,7 @@ Users can logout or delete account in "Setting" screen.
 ### Matching ( *Maintain* )
 
 + The main screen of the application. Users can be find more other users that best suit them.
-+ User can be <b style="color:#00ffc7">Like</b>, <b style="color:#fd2d7a">Nope</b>, <b style="color:#5880cb">Super Like</b> other users.
++ User can be <span style="color:#00ffc7">Like</span>, <b style="color:#fd2d7a">Nope</b>, <b style="color:#5880cb">Super Like</b> other users.
 
 + When both <b style="color:#00ffc7">Like</b> or <b style="color:#5880cb">Super Like</b> each other, the application will automatically match and create a  inbox for them to chat and dating.
 + Users also can be rewind previous user by <b style="color:#f7bd42">Rewind</b>.
