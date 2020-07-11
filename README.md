@@ -1,18 +1,34 @@
-# Projects desciption for interviews.
+# Projects desciption for interviews
 
-This is the description for my project i have been developed.
+## Overview
 
-The repository was created to describe the projects for my interviews.
+`1` *This is the description for my project i have been developed.*
 
-Please repect copyright for public projects.
+`2` *The repository was created to describe the projects for my interviews.*
+
+`3` *Please repect copyright for public projects.*
 
 ## Projects
 
-+ [Neyer App - Dating social network](NeyerApp.md) 
++ [Neyer App - Dating social network](NeyerApp.md)
+
+    + <b>Not public.</b>
+
 + [Money Management App](MoneyManagement.md)
+
+    + <b>Not public.</b>
+
 + [Anna VoOC Application - Mentality social network](AnnaApp.md)
+
+    + <b>Not public.</b>
+
 + [Kimdung Application - Gold and silver bunsiness managenment](KimdungApp.md)
-+ [Dictionary App](DictionaryApp.md)
+
+    + <b>Not public.</b>
+
++ [Dictionary App](https://github.com/hiepdth/Dictionary-App)
+
+    + <b>Public.</b>
 
 ## Developed By
 
