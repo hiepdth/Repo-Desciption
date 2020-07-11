@@ -4,7 +4,7 @@ This is social network application for everyone to dating, chat, connect, ... fo
 
 If you want to get the source code, please contact me via email address dinhhiepxtb@gmail.com
 ## Neyer App - Social Network ( Developing )
----
+
 ### Login
 App use Firebase Authentication for verify  
 + Login with phone number
@@ -23,10 +23,10 @@ App use Firebase Authentication for verify
 ### Messenger
 ### Pay for premium - (Paypal, Visa, Master Card, ...)
 
----
+
 
 ## Developed By
----
+
 
 + Dinh The Hiep - <dinhhiepxtb@gmail.com>
 + Phone numer: +84 945 455 387
