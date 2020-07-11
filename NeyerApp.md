@@ -6,11 +6,30 @@ If you want to get the source code, please contact me via email address dinhhiep
 
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/login_screen.jpg" width="200px"> | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/follow_screen.jpg" width="200px"> | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/profile_screen.jpg" width="200px"> | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/messenger_screen.jpg" width="200px"> |
 | - | - | - | - |
+
+## Feature
+
++ **[Login](###Login)**
++ **[Profile](###Profile)**
+  + *Setting*
+  + *Upload Avatar*
+  + *Edit information*
++ **[Logout and delete account](###Logout-and-delete-account)**
++ **[Matching](###Matching-(-*Maintain*-))**
++ **[QR matching](###QR-matching)**
++ **[Dark mode](###Dark-mode)**
++ **[Multi language](###Multi-language)**
++ **[Messenger](###Messenger)**
++ **[Pay for premium](###Pay-for-premium---(Paypal,-Visa,-Master-Card,-...))**
+
 ## Neyer App - Social Network ( Developing )
 
 ### Login
+
 App use Firebase Authentication for verify  
+
 + Login with phone number
+
 + Facebook account (Facebook SDK)
 
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/login_phone.gif" width="200px"> | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/login_fb.gif" width="200px"> |
@@ -19,6 +38,7 @@ App use Firebase Authentication for verify
 ### Profile
 
 Users can modify settings, allow edit and upload personal photos, change personal information, ...
+
 + Setting
 
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/setting.gif" width="200px"> |
@@ -40,7 +60,7 @@ Users can logout or delete account in "Setting" screen.
 | <img src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/gifs/logout.gif" width="200px"> |
 | - |
 
-### Matching  ( *Maintain* )
+### Matching ( *Maintain* )
 
 + The main screen of the application. Users can be find more other users that best suit them.
 + User can be <b style="color:#00ffc7">Like</b>, <b style="color:#fd2d7a">Nope</b>, <b style="color:#5880cb">Super Like</b> other users.
