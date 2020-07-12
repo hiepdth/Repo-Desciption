@@ -45,6 +45,6 @@
   <img alt="Add me to Linkedin" src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/github_icon.png" height="40" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/hiệp-đinh-784a0b1a9">
+<a href="https://www.linkedin.com/in/hiep-dinh-0415971b2/">
   <img alt="Add me to Linkedin" src="https://raw.githubusercontent.com/hiepdth/Repo_Desciption/master/.android/images/linkedin_icon.png" height="40" width="40"/>
 </a>
